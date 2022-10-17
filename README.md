@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, My name is.👋
+<kbd>K</kbd><kbd>E</kbd><kbd>V</kbd><kbd>I</kbd><kbd>N</kbd>
+
+```javascript
+
+console.log("Welcome to the Machine");
+
+```
+This part will look highlighted.
+
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 <!--
 **bawtman/bawtman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
