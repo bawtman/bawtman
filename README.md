@@ -10,20 +10,23 @@ This part will look highlighted.
 
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
-<!--
+<details><summary>Tasks</summary>
+<P>
+
 **bawtman/bawtman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on: Blockchain, Ethereum, smart contracts ect...
+- 🌱 I’m currently learning: Solidity
+- 👯 I’m looking to collaborate on: Any projects based in solidity, Web3, Blockchain.
+- 🤔 I’m looking for help with: I got this!
+- 💬 Ask me about: Anything
+- 📫 How to reach me: [Email](mailto:bawtman@yahoo.com)
 - ⚡ Fun fact: ...
--->
+
+</P>
+</details>
 
 <details><summary>Table</summary>
 <P>
@@ -39,7 +42,7 @@ Here are some ideas to get you started:
 </P>
 </details>
 
-<details><summary>CLICK ME</summary>
+<details><summary>A little fun</summary>
 <p>
 
 #### We can hide anything, even code!
