@@ -24,13 +24,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| First Header  | Second Header |
-| :------------- | -------------: |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+<details><summary>Table</summary>
+<P>
+
+| First Header  | Second Header | First Header  |
+| :------------ | :-----------: | ------------: |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
+</P>
+</details>
+
 <details><summary>CLICK ME</summary>
 <p>
 
