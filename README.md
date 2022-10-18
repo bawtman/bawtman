@@ -85,13 +85,6 @@ endsolid
 </details>
 
 ```mermaid
-graph TD;
-    ABlock-->B(BlockB);
-    A-->C;
-    B-->D;
-    C-->D;
-```
-```mermaid
 C4Context
 title System Context diagram for Internet Banking System
 
