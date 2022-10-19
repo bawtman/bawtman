@@ -14,10 +14,6 @@ console.log("Welcome to the Machine");
 <details><summary>Tasks</summary>
 <P>
 
-**bawtman/bawtman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: Blockchain, Ethereum, smart contracts ect...
 - 🌱 I’m currently learning: Solidity
 - 👯 I’m looking to collaborate on: Any projects based in solidity, Web3, Blockchain.
@@ -47,7 +43,7 @@ Here are some ideas to get you started:
 
 
 
-
+<details><summary>a</summary><P>⚡ Fun fact:</P></details>
 
 
 
