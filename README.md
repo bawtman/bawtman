@@ -47,37 +47,95 @@ Here are some ideas to get you started:
 
 #### We can hide anything, even code!
 
+
 ```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
+solid MYSOLID
+  facet normal  0.0   0.0  -1.0    
     outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
+      vertex    0.0   0.0   0.0    
+      vertex    1.0   1.0   0.0    
+      vertex    1.0   0.0   0.0    
     endloop
   endfacet
-  facet normal 0.0 0.0 -1.0
+  facet normal  0.0   0.0  -1.0    
     outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
+      vertex    0.0   0.0   0.0 
+      vertex    0.0   1.0   0.0    
+      vertex    1.0   1.0   0.0    
     endloop
   endfacet
-  facet normal -1.0 0.0 0.0
+  facet normal -1.0   0.0   0.0    
     outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
+      vertex    0.0   0.0   0.0
+      vertex    0.0   1.0   1.0
+      vertex    0.0   1.0   0.0
     endloop
   endfacet
-  facet normal 0.577 0.577 0.577
+  facet normal -1.0   0.0   0.0    
     outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
+      vertex    0.0   0.0   0.0
+      vertex    0.0   0.0   1.0
+      vertex    0.0   1.0   1.0
     endloop
   endfacet
-endsolid
+  facet normal  0.0   1.0   0.0    
+    outer loop
+      vertex    0.0   1.0   0.0
+      vertex    1.0   1.0   1.0
+      vertex    1.0   1.0   0.0
+    endloop
+  endfacet
+  facet normal  0.0   1.0   0.0    
+    outer loop
+      vertex    0.0   1.0   0.0
+      vertex    0.0   1.0   1.0
+      vertex    1.0   1.0   1.0
+    endloop
+  endfacet
+  facet normal  1.0   0.0   0.0    
+    outer loop
+      vertex    1.0   0.0   0.0
+      vertex    1.0   1.0   0.0
+      vertex    1.0   1.0   1.0
+    endloop
+  endfacet
+  facet normal  1.0   0.0   0.0    
+    outer loop
+      vertex    1.0   0.0   0.0
+      vertex    1.0   1.0   1.0
+      vertex    1.0   0.0   1.0
+    endloop
+  endfacet
+  facet normal  0.0  -1.0   0.0    
+    outer loop
+      vertex    0.0   0.0   0.0
+      vertex    1.0   0.0   0.0
+      vertex    1.0   0.0   1.0
+    endloop
+  endfacet
+  facet normal  0.0  -1.0   0.0    
+    outer loop
+      vertex    0.0   0.0   0.0
+      vertex    1.0   0.0   1.0
+      vertex    0.0   0.0   1.0
+    endloop
+  endfacet
+  facet normal  0.0   0.0   1.0    
+    outer loop
+      vertex    0.0   0.0   1.0
+      vertex    1.0   0.0   1.0
+      vertex    1.0   1.0   1.0
+    endloop
+  endfacet
+  facet normal  0.0   0.0   1.0    
+    outer loop
+      vertex    0.0   0.0   1.0
+      vertex    1.0   1.0   1.0
+      vertex    0.0   1.0   1.0
+    endloop
+  endfacet
+endsolid MYSOLID
+
 ```
 
 
@@ -118,3 +176,4 @@ BiRel(SystemAA, SystemE, "Uses")
 Rel(SystemAA, SystemC, "Sends e-mails", "SMTP")
 Rel(SystemC, customerA, "Sends e-mails to")
 ```
+
