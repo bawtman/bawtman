@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 </P>
 </details>
-
+![alt text](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)
 <details><summary>Table</summary>
 <P>
 
