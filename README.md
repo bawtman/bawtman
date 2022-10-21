@@ -1,9 +1,31 @@
 ### Hi there, My name is.👋
 <kbd>K</kbd><kbd>E</kbd><kbd>V</kbd><kbd>I</kbd><kbd>N</kbd>
 
+$$\hspace{-30em} \mathsf {your~text~here}$$
+
+$$\mathbb {your~text~here}$$
+
+$$\mathcal {your~text~here}$$
+
+$$\begin{align*}
+& a_{ijk} = 2 \\
+&(because ||V_1-V_2|| = \max_{i \in [d]}|V^i_1 - V^i_2|)
+\end{align*}$$
+
+$$$$
+$$$$
+$$$$
+
+$$\mathtt {your~text~here}$$
+
+$$\textcolor{PaleGoldenrod}{another color}$$
+$$\textcolor{#228B22}{another color}$$
+
+ 
 
 
-$$\LARGE \sf \color{black} \colorbox{BurntOrange} {orange background} \left$$ 
+
+
 $$\Huge \color{black} \colorbox{BurntOrange} {orange background}$$ 
 $$\fbox{Hi there!}$$
 $$\fcolorbox{red}{aqua}{Abc}$$
@@ -14,10 +36,10 @@ $$\fcolorbox{red}{aqua}{Abc}$$
 | Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
 |  | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
 
-| $$\color{black} \colorbox{BurntOrange} {orange background} $$ | Second Header |
+| $$\color{black} \colorbox{BurntOrange} {orange background} $$ | $$\color{black} \fcolorbox{red}{white} {Black on White} $$  |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| $$\color{white} \colorbox{Green} {White on Green} $$   | $$\color{purple} \fcolorbox{red}{white} {Purple on White} $$  |
+| $$\color{black} \fcolorbox{white} {red} {Black on Red} $$  | $$\color{blue} \fcolorbox{white}{red} {Blue on White} $$  |
 ```diff
 
 + Green
