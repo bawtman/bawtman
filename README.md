@@ -1,33 +1,8 @@
 ### Hi there, My name is.👋
 <kbd>K</kbd><kbd>E</kbd><kbd>V</kbd><kbd>I</kbd><kbd>N</kbd>
 
-$$\hspace{-30em} \mathsf {Let's align text}$$
 
-$$\hspace{-25em} \mathsf {Let's align text}$$
-
-$$\hspace{-20em} \mathsf {Let's align text}$$
-
-$$\hspace{-15em} \mathsf {Let's align text}$$
-
-$$\hspace{-10em} \mathsf {Let's align text}$$
-
-$$\hspace{-5em} \mathsf {Let's align text}$$
-
-$$\mathsf {Let's align text}$$
-
-$$\hspace{5em} \mathsf {Let's align text}$$
-
-$$\hspace{10em} \mathsf {Let's align text}$$
-
-$$\hspace{15em} \mathsf {Let's align text}$$
-
-$$\hspace{20em} \mathsf {Let's align text}$$
-
-$$\hspace{25em} \mathsf {Let's align text}$$
-
-$$\hspace{30em} \mathsf {Let's align text}$$
-
-$$\hspace{20px} \mathsf {Let's align text}$$
+$$\hspace{-5in} \color{black} \fcolorbox{white} {BrickRed} {Black on Red}$$
 
 $$\mathbb {your~text~here}$$
 
@@ -111,7 +86,7 @@ console.log("Welcome to the Machine");
 | ![ethereum](https://user-images.githubusercontent.com/28807084/196586214-045c6520-62be-449a-831a-3e02b50768d4.svg)  | ![javascript](https://user-images.githubusercontent.com/28807084/196586222-e79f0363-1d55-4e56-ae10-5f77974ae99a.svg) | ![vscode](https://user-images.githubusercontent.com/28807084/196586232-537c4df4-048d-41b7-be46-0b948760fab9.svg) |
 | ![chainlink](https://user-images.githubusercontent.com/28807084/196586209-73568bfb-60d3-49e1-8a96-287f8ce8eb2f.svg)  | ![mysql](https://user-images.githubusercontent.com/28807084/196586227-9bf82ea1-a9e2-4a27-b8ca-6d2d545b66a2.svg) | ![gimp](https://user-images.githubusercontent.com/28807084/196586217-5f9c157f-1c48-4bfe-a778-7c24b65d2cd0.svg) |
 | ![hyperledger](https://user-images.githubusercontent.com/28807084/196586218-8a54306d-150a-4e09-8ee4-9d63b4337744.svg) | ![css](https://user-images.githubusercontent.com/28807084/196586212-9555d6fe-15e4-4741-8daf-92a9723a8525.svg)  | ![solidity](https://user-images.githubusercontent.com/28807084/196586053-366a68e8-5795-4bbd-91da-4a0adec05697.svg) |
-| `Content Cell` | `Content` `Cell`  | `Content Cell`  |
+| $$\hspace{-120px} \mathsf {Let's align text}$$ | `Content` `Cell`  | `Content Cell`  |
 
 </P>
 </details>
@@ -121,7 +96,19 @@ console.log("Welcome to the Machine");
 
 
 
+$$\hspace{-30em} \mathsf {Let's align text}$$
 
+$$\hspace{-20em} \mathsf {Let's align text}$$
+
+$$\hspace{-10em} \mathsf {Let's align text}$$
+
+$$\mathsf {Let's align text}$$
+
+$$\hspace{10em} \mathsf {Let's align text}$$
+
+$$\hspace{20em} \mathsf {Let's align text}$$
+
+$$\hspace{30em} \mathsf {Let's align text}$$
 
 
 
