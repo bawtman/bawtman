@@ -7,7 +7,7 @@ console.log("Welcome to the Machine");
 
 ```
 https://bawtman.github.io/intro/
-
+https://buymeacoffee-solidity-defi-tipping-app.bawtman.repl.co/
 
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
